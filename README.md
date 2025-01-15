@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey! I am an undergrad student pursuing a Computer Science degree at Georgia State University. I am currently a sophomore working on projects to enhance my coding skills. I'm looking for CS internships to gain hands on real-world expereience.
+Hey! I am an undergraduate student pursuing a Computer Science degree at Georgia State University. I am currently a sophomore learning Data Science and expanding my skills with various coding languages. I'm looking for CS internships to gain hands on real-world expereience!
 
 
 ## 🌐 Socials:
